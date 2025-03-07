@@ -1,4 +1,4 @@
 - Hello, I’m Prabhakar.K
 - I’m a certified Python full stack developer
 - Skills: Python, Django, SQL, JS, React, BootStrap, CSS, HTML, DOM, JSON, MYSQL
-- Please reachout to me at prabasvu@gmail.com for any quesries, thank you!!
+- Please reachout to me at prabasvu@gmail.com for any queries, thank you!!
